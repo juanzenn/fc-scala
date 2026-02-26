@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "printAbs",
+      "mainClass": "printAbs",
+      "buildTarget": "file:/home/darkzen/code/fc-scala/.scala-build/?id=fc-scala_d5c0a6989e",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
